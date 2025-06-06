@@ -1,0 +1,14 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background square -->
+  <rect width="48" height="48" rx="10" fill="#4F46E5"/>
+
+  <!-- Head (person) -->
+  <circle cx="24" cy="17" r="5" fill="white"/>
+
+  <!-- Shoulders/body -->
+  <path d="M16 34c0-4 4-7 8-7s8 3 8 7v1H16v-1z" fill="white"/>
+
+  <!-- Optional extra people (mini circles) -->
+  <circle cx="14" cy="18" r="3" fill="#C7D2FE"/>
+  <circle cx="34" cy="18" r="3" fill="#C7D2FE"/>
+</svg>
